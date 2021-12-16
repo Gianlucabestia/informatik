@@ -7,6 +7,7 @@ Die herausgekommenen Zahlen stimmen nicht genau.
 - Steuern ausrechnen
 - Zeit sparen
 - Geld sparen
+
 ***Das Programm ist:***
 - Benutzerfreundlich
 - Umweltfreundlich
